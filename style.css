@@ -1,0 +1,33 @@
+h1 {
+  color: white;
+  text-align: center;
+
+}
+
+body {
+  background-color: black;  
+  color: skyblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+
+}
+
+a {
+  color:skyblue;
+  text-decoration: underline;
+  
+
+}
+
+.subtitle {
+  color: white;
+  text-align: left;
+  text-decoration: underline;
+
+}
+
+.title {
+  color:white
+  text-align: center;
+  text-decoration: underline;
+
+}
